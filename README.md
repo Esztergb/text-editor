@@ -61,7 +61,11 @@ SO THAT I can reliably retrieve them for later use
 
 <div align="center">
 
-![Example screenshot](./)
+![Deployed Pafe screenshot](./client/src/images/Deployed%20page.png)
+![Manifest screenshot](./client/src/images/Manifest.png)
+![Registered service worker](./client/src/images/Service%20Workers.png)
+![IndexedDB ](./client/src/images/IndexedDB.png)
+
 
 </div>
   
