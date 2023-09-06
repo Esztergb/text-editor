@@ -22,7 +22,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: "./index.html",
-        title: "Contact Cards",
+        title: "Just Another Text Editor",
       }),
 
       // Injects our custom service worker
